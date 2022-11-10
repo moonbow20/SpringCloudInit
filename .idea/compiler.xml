@@ -11,6 +11,7 @@
         <module name="ConfigServer" />
         <module name="Security" />
         <module name="gateway" />
+        <module name="Gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
